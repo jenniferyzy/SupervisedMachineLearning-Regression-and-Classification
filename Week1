@@ -1,0 +1,26 @@
+=Supervised Learning=
+
+where we can put machine learning into use: 
+Input (x)  - ->     Output (y)        Application 
+email                spam?(1/0)         spam filtering
+audio                text transcripts   speech recognition
+English              Spanish             machine translation 
+ad, user info        click (1/0)         online advertising 
+image, rader info    position of other cars  self-driving car
+
+Types of Machine Learning: 
+(1) Regression:
+  definition: regression predicts a number infinitely many possible outputs
+  
+ 
+(2) Classification: 
+  definition: classification predicts categories small number of possible outpus
+  
+
+=Unsupervised Learning=
+- find something interesting in unlabeled data 
+- unlabled data -> classified them into group by using clustering algorithm 
+- use algorithm to group the data into different categories 
+- clustering example:
+  - music
+  - DNA microarray 
